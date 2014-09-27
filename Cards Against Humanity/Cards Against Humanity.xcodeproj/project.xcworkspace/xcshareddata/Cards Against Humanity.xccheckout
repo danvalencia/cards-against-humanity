@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EEC31BA9-325D-4FF0-8FF8-A71C708119EA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Cards Against Humanity</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6EB7910F32AB68EC9A442EB10EE2EB6F73F2AE48</key>
+		<string>github.com:danvalencia/cards-against-humanity.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Cards Against Humanity/Cards Against Humanity.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6EB7910F32AB68EC9A442EB10EE2EB6F73F2AE48</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:danvalencia/cards-against-humanity.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6EB7910F32AB68EC9A442EB10EE2EB6F73F2AE48</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6EB7910F32AB68EC9A442EB10EE2EB6F73F2AE48</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cards-against-humanity</string>
+		</dict>
+	</array>
+</dict>
+</plist>
